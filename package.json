@@ -176,7 +176,7 @@
   "devDependencies": {
     "@biomejs/biome": "^1.6.0",
     "@codecov/webpack-plugin": "^0.0.1-beta.4",
-    "@pmmmwh/react-refresh-webpack-plugin": "0.5.10",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.6.2",
     "@sentry/jest-environment": "^4.0.0",
     "@sentry/profiling-node": "^7.108.0",
     "@styled/typescript-styled-plugin": "^1.0.1",
